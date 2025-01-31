@@ -5,7 +5,7 @@ This repository is a  guide and solution of leet code problems for those who are
 |----------|----------|----------|
 | Sr. | Question | Difficulty | Solution |
 |----------|----------|----------|-------|
-| Row 1    | Data     | Data     |
-| Row 2    | Data     | Data     |
+| 1.    | Data     | Data     |
+| 2    | Data     | Data     |
 | Row 3    | Data     | Data     |
 
