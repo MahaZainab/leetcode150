@@ -3,8 +3,8 @@ This repository is a  guide and solution of leet code problems for those who are
 
 | Topic | 1. Arrays and Hashing | [Questions](https://github.com/MahaZainab/leetcode150/tree/main/Arrays%20and%20Hashing) |
 |----------|----------|----------|
-| Sr. | Question | Difficulty | Solution
-|----------|----------|----------|
+| Sr. | Question | Difficulty | Solution |
+|----------|----------|----------|-------|
 | Row 1    | Data     | Data     |
 | Row 2    | Data     | Data     |
 | Row 3    | Data     | Data     |
