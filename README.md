@@ -1,2 +1,2 @@
 # Leet Code 150
-This 
+This is a  guide and solution
