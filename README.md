@@ -1,7 +1,7 @@
 # Leet Code 150
 This repository is a  guide and solution of leet code problems for those who are biggners and want to master Data Structure and Algorithms.
 
-| Topic | 1. Arrays and Hashing | Header 3 |
+| Topic | 1. Arrays and Hashing | [Questions](https://www.example.com) |
 |----------|----------|----------|
 | Header 1 | Header 2 | Header 3 |
 |----------|----------|----------|
