@@ -8,7 +8,7 @@ This repository is a  guide and solution of leet code problems for those who are
 | 2.    | Data     | Data     |
 | 3.    | Data     | Data     |
 
-| Topic | 5. Sliding Window | [Questions](https://github.com/MahaZainab/leetcode150/tree/main/Arrays%20and%20Hashing) |
+| Topic | 5. Sliding Window | [Questions](https://github.com/MahaZainab/leetcode150/tree/main/Sliding%20Window) |
 |----------|----------|----------|
 | Question | Difficulty | Solution |
 | 1.    | Data     | Data     |
