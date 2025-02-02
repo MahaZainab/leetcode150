@@ -18,6 +18,6 @@ This repository is a  guide and solution of leet code problems for those who are
 | Topic |  6. Linked List [Questions](https://github.com/MahaZainab/leetcode150/tree/main/Sliding%20Window) |
 |----------|----------|----------|
 |  Difficulty | Questions | Solution |
-|  Easy | 1. Reverse Linked List   | [Python Code](https://github.com/MahaZainab/leetcode150/blob/main/Sliding%20Window/3.%20Longest%20Substring%20Without%20Repeating%20Characters.ipynb)     |
+|  Easy | 1. [Reverse Linked List ] (https://leetcode.com/problems/reverse-linked-list/description/)  | [Python Code](https://github.com/MahaZainab/leetcode150/blob/main/Sliding%20Window/3.%20Longest%20Substring%20Without%20Repeating%20Characters.ipynb)     |
 | 2.    | Data     | Data     |
 | 3.    | Data     | Data     |
