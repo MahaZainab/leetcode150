@@ -18,7 +18,8 @@ This repository is a  guide and solution of leet code problems for those who are
 
 | Topic |  6. Linked List |[Questions](https://github.com/MahaZainab/leetcode150/tree/main/Sliding%20Window) |
 |----------|----------|----------|
-### Topic 6: Linked
+### Topic 6: Linked List. 
+#### Here are all the question
 
 |  Difficulty | Questions | Solution |
 |----------|----------|----------|
