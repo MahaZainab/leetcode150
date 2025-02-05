@@ -16,8 +16,7 @@ This repository is a  guide and solution of leet code problems for those who are
 | 3.    | Data     | Data     |
 
 
-| Topic |  6. Linked List |[Questions](https://github.com/MahaZainab/leetcode150/tree/main/Sliding%20Window) |
-|----------|----------|----------|
+
 ### Topic 6: Linked List. 
 #### Here are all the [Questions](https://github.com/MahaZainab/leetcode150/tree/main/Sliding%20Window)
 
