@@ -33,4 +33,3 @@ This repository is a  guide and solution of leet code problems for those who are
 | <img src='https://img.shields.io/badge/Medium-orange' alt='Difficulty: Medium' />  |  9.  [LRU Cache](https://leetcode.com/problems/lru-cache/description/) |[Python Code](https://github.com/MahaZainab/leetcode150/blob/main/Linked%20%20List/146.%20LRU%20Cache.ipynb)     |
 | <img src='https://img.shields.io/badge/Hard-red' alt='Difficulty: Hard' />  |  10.  [LRU Cache](https://leetcode.com/problems/lru-cache/description/) |[Python Code](https://github.com/MahaZainab/leetcode150/blob/main/Linked%20%20List/146.%20LRU%20Cache.ipynb)     |
 
-<img src='https://img.shields.io/badge/Hard-red' alt='Difficulty: Hard' />
