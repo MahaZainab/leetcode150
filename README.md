@@ -4,7 +4,7 @@ This repository is a  guide and solution of leet code problems for those who are
 | Topic | 1. Arrays and Hashing | [Questions](https://github.com/MahaZainab/leetcode150/tree/main/Arrays%20and%20Hashing) |
 |----------|----------|----------|
 | Question | Difficulty | Solution |
-| 1.    | Data     | Data     |
+|  <img src='https://img.shields.io/badge/Easy-Green' alt='Difficulty: Easy' />| 1. [ Reverse Linked List ](https://leetcode.com/problems/reverse-linked-list/description/)  | [Python Code](https://github.com/MahaZainab/leetcode150/blob/main/Linked%20%20List/206.%20Reverse%20Linked%20List.ipynb)     |
 | 2.    | Data     | Data     |
 | 3.    | Data     | Data     |
 
