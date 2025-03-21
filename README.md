@@ -4,7 +4,7 @@ This repository is a  guide and solution of leet code problems for those who are
 | Topic | 1. Arrays and Hashing | [Questions](https://github.com/MahaZainab/leetcode150/tree/main/Arrays%20and%20Hashing) |
 |----------|----------|----------|
 | Question | Difficulty | Solution |
-|  <img src='https://img.shields.io/badge/Easy-Green' alt='Difficulty: Easy' />| 1. [ Contains Duplicate ](https://leetcode.com/problems/contains-duplicate/description/)  | [Python Code](https://github.com/MahaZainab/LeetCode/blob/00167ff3b855d08b64fff8233dab6c98dcc57a63/Java/Arrays/Ass1ContainDuplicates.java#L2)     |
+|  <img src='https://img.shields.io/badge/Easy-Green' alt='Difficulty: Easy' />| 1. [ Contains Duplicate ](https://leetcode.com/problems/contains-duplicate/description/)  | [Java Code](https://github.com/MahaZainab/LeetCode/blob/00167ff3b855d08b64fff8233dab6c98dcc57a63/Java/Arrays/Ass1ContainDuplicates.java#L2)     |
 | 2.    | Data     | Data     |
 | 3.    | Data     | Data     |
 
