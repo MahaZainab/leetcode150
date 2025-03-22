@@ -5,7 +5,7 @@ This repository is a  guide and solution of leet code problems for those who are
 |----------|----------|----------|
 | Question | Difficulty | Solution |
 |  <img src='https://img.shields.io/badge/Easy-Green' alt='Difficulty: Easy' />| 1. [ Contains Duplicate ](https://leetcode.com/problems/contains-duplicate/description/)  | [Java](https://github.com/MahaZainab/LeetCode/blob/00167ff3b855d08b64fff8233dab6c98dcc57a63/Java/Arrays/Ass1ContainDuplicates.java#L2), [Python](https://github.com/MahaZainab/leetcode150/blob/main/Arrays%20and%20Hashing/217.%20Contains%20Duplicate.ipynb)     |
-| 2.    | Data     | Data     |
+| <img src='https://img.shields.io/badge/Easy-Green' alt='Difficulty: Easy' />    | Data     | Data     |
 | 3.    | Data     | Data     |
 
 | Topic | 5. Sliding Window | [Questions](https://github.com/MahaZainab/leetcode150/tree/main/Sliding%20Window) |
