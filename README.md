@@ -6,7 +6,7 @@ Try it if you want to succeed.
 |----------|----------|----------|
 | Question | Difficulty | Solution |
 |  <img src='https://img.shields.io/badge/Easy-Green' alt='Difficulty: Easy' />| 1. [ Contains Duplicate ](https://leetcode.com/problems/contains-duplicate/description/)  | [Java](https://github.com/MahaZainab/LeetCode/blob/00167ff3b855d08b64fff8233dab6c98dcc57a63/Java/Arrays/Ass1ContainDuplicates.java#L2), [Python](https://github.com/MahaZainab/leetcode150/blob/main/Arrays%20and%20Hashing/217.%20Contains%20Duplicate.ipynb)     |
-| <img src='https://img.shields.io/badge/Easy-Green' alt='Difficulty: Easy' />    | Data     | Data     |
+| <img src='https://img.shields.io/badge/Easy-Green' alt='Difficulty: Easy' />    | 2.[Best Time to Buy and Sell Stock]     | Data     |
 | <img src='https://img.shields.io/badge/Easy-Green' alt='Difficulty: Easy' /> | Data     | Data     |
 
 | Topic | 5. Sliding Window | [Questions](https://github.com/MahaZainab/leetcode150/tree/main/Sliding%20Window) |
